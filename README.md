@@ -1,5 +1,5 @@
 # SupremeLordbot
 Telegram Bot
 
-random meme generator\n
-random quote generator
+ random meme generator
+ random quote generator
