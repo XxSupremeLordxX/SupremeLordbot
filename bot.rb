@@ -4,7 +4,7 @@ require_relative 'motivate.rb'
 
 class Bot
   def initialize
-    token = 'token hidden'
+    token = '1285084012:AAGeOv_k3aKchLdwS5lEMXYRlZkFtIC3aIg'
 
   Telegram::Bot::Client.run(token) do |bot|
     bot.listen do |message|
