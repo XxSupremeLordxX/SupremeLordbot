@@ -1,4 +1,4 @@
 # SupremeLordbot
-Telegram Bot <h2>
+<h2> Telegram Bot </h2>
 
- random meme, quote generator
+<h3>random meme, quote generator using ruby and JSON<h3>
